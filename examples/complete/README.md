@@ -19,6 +19,5 @@ module "nxos_scaffolding" {
   description = "My Description"
   mode        = "trunk"
 }
-
 ```
 <!-- END_TF_DOCS -->

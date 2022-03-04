@@ -17,7 +17,6 @@ module "nxos_scaffolding" {
   description = "My Description"
   mode        = "trunk"
 }
-
 ```
 
 ## Requirements
