@@ -25,13 +25,13 @@ module "nxos_scaffolding" {
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.0.0 |
-| <a name="requirement_nxos"></a> [nxos](#requirement\_nxos) | >= 0.1.0 |
+| <a name="requirement_nxos"></a> [nxos](#requirement\_nxos) | >= 0.5.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_nxos"></a> [nxos](#provider\_nxos) | >= 0.1.0 |
+| <a name="provider_nxos"></a> [nxos](#provider\_nxos) | >= 0.5.0 |
 
 ## Inputs
 
@@ -52,5 +52,5 @@ module "nxos_scaffolding" {
 
 | Name | Type |
 |------|------|
-| [nxos_rest.l1PhysIf](https://registry.terraform.io/providers/netascode/nxos/latest/docs/resources/rest) | resource |
+| [nxos_rest.l1PhysIf](https://registry.terraform.io/providers/CiscoDevNet/nxos/latest/docs/resources/rest) | resource |
 <!-- END_TF_DOCS -->
